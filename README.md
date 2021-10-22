@@ -1,8 +1,9 @@
 # Stock_Analysis
 Green Stock Analysis
 
-##Overview of Project
-The purpose and background are well defined (2 pt).
+# Overview of Project
+
+
 Background
 A client, Steve has information about specific stocks on a spreadsheet he would like analyzed for the years 2017 and 2018. His parents are passionate about green energy. However, without doing any research they have invested in a green energy stock with the ticker symbol DQ. Steve would like to analyze the stock for his parents as well as other green energy stock so he can help his parents diversify their portfolio. After receiving this initial analysis, Steve decided that he wants to expand the dataset and analysis to include the entire stock market over the last few years
 
