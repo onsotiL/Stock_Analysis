@@ -1,5 +1,5 @@
 # Stock_Analysis
-Green Stock Analysis
+## Green Stock Analysis
 
 # Overview of Project
 
@@ -41,7 +41,7 @@ The refactored analysis
 ### Refactoring code 
 
 #### Advantages 
-   1	Refactoring VBA code takes fewer steps while making the code more efficient 
+   1	     Refactoring VBA code takes fewer steps while making the code more efficient 
    2.	Refactoring VBA reduces the execution time of the macro created
    3.	It is easier to be understood but others
 
@@ -52,9 +52,8 @@ The refactored analysis
 
 The advantages and disadvantages of the original and refactored VBA script 
 
-The original VBA scripts 
+The original VBA scripts took longer time to run as opposed mto the refactored script
 
-The refactored VBA script 
 
 
 
