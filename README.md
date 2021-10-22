@@ -22,7 +22,8 @@ The project sought to create the following
 
 ## Results
 The original analysis
- ![Stock Analysis Resources/Pop up messages/Original_-2017.png 
+ 
+https://github.com/onsotiL/Stock_Analysis/blob/main/Stock%20Analysis%20Resources/Pop%20up%20messages/Original_-2017.png
 
 
 The refactored analysis
