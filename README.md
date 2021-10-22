@@ -26,6 +26,7 @@ The original analysis
 
 ![image](https://user-images.githubusercontent.com/90416094/138494021-38b29c7e-c178-45f8-aaf0-dd52d151fb38.png)
 
+![image](https://user-images.githubusercontent.com/90416094/138495150-ef70def4-177c-48a0-90b3-435bc6bc5172.png)
 
 The refactored analysis
 
