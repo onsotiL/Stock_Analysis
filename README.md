@@ -12,15 +12,15 @@ The purpose of the project is to use VBA script to analyze stocks and automate t
 
 The project sought to determine the following
 
-     1.	 The total daily volume and yearly return for DQ stock for 2017 and 2018
-     2.	 The total daily volume and yearly return for 12 green energy stocks for the years 2017 and 2018
-     3.	The total daily volume and yearly return for of entire stock market over the last few years.
+     1.The total daily volume and yearly return for DQ stock for 2017 and 2018
+     2.The total daily volume and yearly return for 12 green energy stocks for the years 2017 and 2018
+     3.The total daily volume and yearly return for of entire stock market over the last few years.
 
 The project sought to create the following
 
-     1.	To create a button on the spreadsheet that will run the VBA when executed by the client
-     2.	To create an input box that will enable the client to enter a specific year of stock analysis
-     3.	To create an output box that show a pop-up message showing the elapsed run time for the script 
+     1.To create a button on the spreadsheet that will run the VBA when executed by the client
+     2.To create an input box that will enable the client to enter a specific year of stock analysis
+     3.To create an output box that show a pop-up message showing the elapsed run time for the script 
 
 ## Results
 
