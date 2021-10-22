@@ -38,10 +38,10 @@ The refactored analysis
 
 ## Summary
 
-###Refactoring code 
+### Refactoring code 
 
-####A#dvantages 
-   1.	Refactoring VBA code takes fewer steps while making the code more efficient 
+#### Advantages 
+   1	Refactoring VBA code takes fewer steps while making the code more efficient 
    2.	Refactoring VBA reduces the execution time of the macro created
    3.	It is easier to be understood but others
 
