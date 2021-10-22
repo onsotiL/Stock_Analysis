@@ -21,6 +21,7 @@ The project sought to create the following
      3.	To create an output box that show a pop-up message showing the elapsed run time for the script 
 
 ## Results
+
 The original analysis
  
 
@@ -29,7 +30,10 @@ The original analysis
 ![image](https://user-images.githubusercontent.com/90416094/138495150-ef70def4-177c-48a0-90b3-435bc6bc5172.png)
 
 The refactored analysis
+
 ![image](https://user-images.githubusercontent.com/90416094/138495278-aae87309-5a68-49a7-983c-dc16e04c65dc.png)
+
+![image](https://user-images.githubusercontent.com/90416094/138495366-c7cf6718-ac57-4d66-ae6e-3149cd9760f4.png)
 
 
 ## Summary
