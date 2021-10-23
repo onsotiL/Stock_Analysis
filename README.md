@@ -43,12 +43,14 @@ The project sought to create the following
 ### Refactoring code 
 
 #### Advantages 
-   1	     Refactoring VBA code takes fewer steps while making the code more efficient 
+
+   1	 Refactoring VBA code takes fewer steps while making the code more efficient 
    2.	Refactoring VBA reduces the execution time of the macro created
    3.	It is easier to be understood but others
 
 
 #### Disadvantages
+
    1.	A refactored code can be longer depending on its purpose longer and therefore more susceptible to errors.
    2.	It can easily break an already working code if the script is not thought of and followed through logically
 
